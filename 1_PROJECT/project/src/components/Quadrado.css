@@ -1,0 +1,52 @@
+.quadrado{
+    margin: 0 auto;
+    width: 250px;
+    height: 250px;
+    border: 2px solid yellow;
+    margin-bottom: 20px;
+}
+.red{
+    margin: 0 auto;
+    width: 250px;
+    height: 200px;
+    border: 2px solid yellow;
+    background-color: red;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.blue{
+    margin: 0 auto;
+    width: 250px;
+    height: 250px;
+    border: 5px solid greenyellow;
+    background-color: blue;
+    border-radius: 50%;
+    
+}
+.button-inicial{
+    width: 70px;
+    height: 30px;
+    margin: 20px 20px;
+    background-color: white;
+    border: 2px solid yellow;
+    border-radius: 2em;
+
+}
+.button-red{
+    width: 70px;
+    height: 30px;
+    margin: 20px 20px;
+    background-color: red;
+    border: 2px solid yellow;
+    color: white;
+    border-radius: 2em;
+}
+.button-blue{
+    width: 70px;
+    height: 30px;
+    margin: 20px 20px;
+    background-color: blue;
+    border: 2px solid yellow;
+    color: white;
+    border-radius: 2em;
+}
